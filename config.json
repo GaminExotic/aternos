@@ -1,0 +1,9 @@
+{
+	"ip":"TheXtremeSMP.tk",
+	"port": 32138,
+	"name": "GaminExoticYT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Halfyyyy Halfyyy",
+	"login-cmd":"/login Halfyyy"
+}
